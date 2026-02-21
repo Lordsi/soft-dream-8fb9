@@ -1,0 +1,11 @@
+{
+  "name": "soft-dream-8fb9",
+  "version": "1.0.0",
+  "description": "Queens & Gods — reader site with purchase-gated access",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "stripe": "^14.10.0"
+  }
+}
